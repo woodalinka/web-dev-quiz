@@ -69,4 +69,14 @@ export default [
             'Using an if-else statement.',
         ],
     },
+    {
+        id: 'q8',
+        text: 'What is the different between let, const and var',
+        answers: [
+            'Find out 1',
+            'Find out 2',
+            'Find out 3',
+            'Find out 4',
+        ],
+    },
 ];
